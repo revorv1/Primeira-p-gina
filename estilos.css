@@ -1,0 +1,22 @@
+  h1 {
+    color: darkslateblue;
+    font-size: x-large;
+    background-color: gold;
+    font-style: oblique;
+    width: 200px;
+}
+li {
+    color: teal;
+}
+h2 {
+  
+  color: cornflowerblue;
+  font-style: oblique;
+}
+.pessoal {
+  color: sienna;
+}
+.bloco {
+  margin:  10px;
+  float: left;
+}
